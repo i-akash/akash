@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/akash/static/css/main.3cc5f2ef.css",
-    "main.js": "/akash/static/js/main.39d8e027.js",
+    "main.js": "/akash/static/js/main.6c4b4c73.js",
     "index.html": "/akash/index.html",
     "main.3cc5f2ef.css.map": "/akash/static/css/main.3cc5f2ef.css.map",
-    "main.39d8e027.js.map": "/akash/static/js/main.39d8e027.js.map"
+    "main.6c4b4c73.js.map": "/akash/static/js/main.6c4b4c73.js.map"
   },
   "entrypoints": [
     "static/css/main.3cc5f2ef.css",
-    "static/js/main.39d8e027.js"
+    "static/js/main.6c4b4c73.js"
   ]
 }
